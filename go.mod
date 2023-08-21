@@ -1,3 +1,3 @@
 module GO-REST-API
 
-go 1.23
+go 18.9
